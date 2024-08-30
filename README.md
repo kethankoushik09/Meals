@@ -31,4 +31,4 @@ This is a simple web application that allows users to search for meals, view det
    - View your favorite meals by visiting the "My favorite meals"
 
 # Live Demo
-
+https://sindhupallavi14.github.io/Meals/
